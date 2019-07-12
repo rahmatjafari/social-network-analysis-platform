@@ -11,7 +11,7 @@
 ![](https://raw.githubusercontent.com/rahmatjafari/social-network-analysis-platform/master/output/friends.png)
 ![](https://raw.githubusercontent.com/rahmatjafari/social-network-analysis-platform/master/output/mutual%20likes.png)
 2- plot.py <br />
-برای این تابع از دیتاست شماره ۱ استفاده کردیم. این دیتاست تمامی پست‌های صفحه خبری ای بی سی نیوز که از تاریخ 2012 تا 2016 گذاشته شده است را نشان می‌دهد. این پست‌ها ۴ نوع مختلف دارند:
+<p dir='rtl' align='right'>برای این تابع از دیتاست شماره ۱ استفاده کردیم. این دیتاست تمامی پست‌های صفحه خبری ABCnews که از تاریخ 2012 تا 2016 گذاشته شده است را نشان می‌دهد. این پست‌ها ۴ نوع مختلف دارند:</p>
 <br />
 •	Link <br />
 •	Status <br />
