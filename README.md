@@ -18,8 +18,9 @@
 •	Status <br />
 •	Photo <br />
 •	Video <br/>
-<p dir='rtl' align='right'>شکل زیر خروجی این تابع را بر اساس سال نشان می‌دهد.</p>
+<p dir='rtl' align='right'>خروجی ها به ترتیب : تعداد و نوع پست ها در هر سال، تعداد و نوع پست ها در هر ماه، فراوانی نوع پست ها، میزان فعالیت های کاربر در ساعات مختلف شبانه روز و روز های مختلف هفته را نشان می دهند.</p>
 
 ![](https://raw.githubusercontent.com/rahmatjafari/social-network-analysis-platform/master/output/plot_year.png)
-
-
+![](https://raw.githubusercontent.com/rahmatjafari/social-network-analysis-platform/master/output/plot_month.png)
+![](https://raw.githubusercontent.com/rahmatjafari/social-network-analysis-platform/master/output/plot_circle.png)
+![](https://raw.githubusercontent.com/rahmatjafari/social-network-analysis-platform/master/output/week.png)
