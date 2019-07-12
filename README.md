@@ -1,8 +1,8 @@
 # social-network-analysis-platform
 یک پلتفرم پیشنهادی آنالیز شبکه‌های اجتماعی برای تجزیه و تحلیل داده های بزرگ
 ## dataset
-1- ABCnews.csv
-2- FriendNetwork.txt
+1- ABCnews.csv <br />
+2- FriendNetwork.txt <br />
 3- LikeNetwork.txt
 ## code
 1- graph.py
@@ -10,3 +10,11 @@
 نمایش گراف مربوط به دیتاست های ۲و۳
 ![](https://raw.githubusercontent.com/rahmatjafari/social-network-analysis-platform/master/output/friends.png)
 ![](https://raw.githubusercontent.com/rahmatjafari/social-network-analysis-platform/master/output/mutual%20likes.png)
+2- plot.py <br />
+برای این تابع از دیتاست شماره ۱ استفاده کردیم. این دیتاست تمامی پست‌های صفحه خبری ABCnews که از تاریخ 2012 تا 2016 گذاشته شده است را نشان می‌دهد. این پست‌ها ۴ نوع مختلف دارند:
+<br />
+•	Link
+•	Status
+•	Photo
+•	Video
+
