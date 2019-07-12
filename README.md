@@ -4,7 +4,7 @@
 1- ABCnews.csv <br />
 2- FriendNetwork.txt <br />
 3- LikeNetwork.txt
-## code
+## output
 1- graph.py
 <br />
 نمایش گراف مربوط به دیتاست های ۲و۳
