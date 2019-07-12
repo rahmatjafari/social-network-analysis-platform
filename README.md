@@ -13,10 +13,11 @@
 2- plot.py <br />
 <p dir='rtl' align='right'>برای این تابع از دیتاست شماره ۱ استفاده کردیم. این دیتاست تمامی پست‌های صفحه خبری ABCnews که از تاریخ 2012 تا 2016 گذاشته شده است را نشان می‌دهد. این پست‌ها ۴ نوع مختلف دارند:</p>
 <br />
-<div dir="rtl" align="right">
 •	Link <br />
 •	Status <br />
 •	Photo <br />
-•	Video
-</div>
+•	Video <br/>
+<p dir='rtl' align='right'>شکل زیر خروجی این تابع را بر اساس سال نشان می‌دهد.</p>
+![](https://raw.githubusercontent.com/rahmatjafari/social-network-analysis-platform/master/output/plot_year.png)
+
 
